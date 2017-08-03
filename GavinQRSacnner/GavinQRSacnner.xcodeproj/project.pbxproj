@@ -242,6 +242,7 @@
 				TargetAttributes = {
 					D85A96D01AFB060F0016F779 = {
 						CreatedOnToolsVersion = 6.3.1;
+						DevelopmentTeam = 3B94GT7QA5;
 						ProvisioningStyle = Manual;
 					};
 					D85A96E91AFB06100016F779 = {
@@ -379,7 +380,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
@@ -417,7 +418,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -429,14 +430,16 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "iPhone Developer";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = "";
+				CODE_SIGN_IDENTITY = "iPhone Distribution: yaoming huang (3B94GT7QA5)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: yaoming huang (3B94GT7QA5)";
+				DEVELOPMENT_TEAM = 3B94GT7QA5;
 				INFOPLIST_FILE = GavinQRSacnner/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.gavin.qr.scanner.person;
+				PRODUCT_BUNDLE_IDENTIFIER = com.cmstop.xindongjia;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "";
+				PROVISIONING_PROFILE = "d1837a8a-662c-4a4e-880c-ef2f01e1e216";
+				PROVISIONING_PROFILE_SPECIFIER = xdjapp;
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -444,14 +447,16 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "iPhone Developer";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = "";
+				CODE_SIGN_IDENTITY = "iPhone Distribution: yaoming huang (3B94GT7QA5)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: yaoming huang (3B94GT7QA5)";
+				DEVELOPMENT_TEAM = 3B94GT7QA5;
 				INFOPLIST_FILE = GavinQRSacnner/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.gavin.qr.scanner.person;
+				PRODUCT_BUNDLE_IDENTIFIER = com.cmstop.xindongjia;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "";
+				PROVISIONING_PROFILE = "d1837a8a-662c-4a4e-880c-ef2f01e1e216";
+				PROVISIONING_PROFILE_SPECIFIER = xdjapp;
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};

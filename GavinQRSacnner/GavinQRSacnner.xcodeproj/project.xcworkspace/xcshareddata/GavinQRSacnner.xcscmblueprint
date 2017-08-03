@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "650A131B8C434AB573C530CD19BDA99622D8D656",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "2C48AEED1CB755BCF975B343C017A30BD4D2CABA" : 9223372036854775807,
+    "650A131B8C434AB573C530CD19BDA99622D8D656" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "8BAA2ACE-1F3A-4748-823A-F67129F94F36",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "2C48AEED1CB755BCF975B343C017A30BD4D2CABA" : "..",
+    "650A131B8C434AB573C530CD19BDA99622D8D656" : "GavinQRSacnner\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "GavinQRSacnner",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "GavinQRSacnner\/GavinQRSacnner.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "git.meitiyun.org:IOS\/Cmstopmeitiban_chaowen.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2C48AEED1CB755BCF975B343C017A30BD4D2CABA"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/iOSreverse\/GavinQRSacnner.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "650A131B8C434AB573C530CD19BDA99622D8D656"
+    }
+  ]
+}
