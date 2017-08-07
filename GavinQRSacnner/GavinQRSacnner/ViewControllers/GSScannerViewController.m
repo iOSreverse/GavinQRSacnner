@@ -15,7 +15,7 @@
 
 #define ScannerTop 120
 //#define ScannerSize (UI_USER_INTERFACE_IDIOM() == UIUserInterfaceIdiomPad?500:220)
-#define ScannerSize 220
+#define ScannerSize 500
 #define ScannerBGFixed (UI_USER_INTERFACE_IDIOM() == UIUserInterfaceIdiomPad?50:30)
 #define ResultButtonWidth 80
 #define ResultButtonHeight 40
@@ -63,7 +63,7 @@
 }
 
 -(void)buildUI{
-    self.title = @"Gavin's Scanner";
+    self.title = @"信东家";
     self.navigationController.navigationBar.tintColor = [UIColor blackColor];
     self.view.backgroundColor = [UIColor colorWithRed:0.95 green:0.95 blue:0.95 alpha:1.000];
     
